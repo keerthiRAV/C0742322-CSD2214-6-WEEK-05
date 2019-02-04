@@ -1,3 +1,3 @@
 ﻿
         var date = new Date();
-        document.body.innerHTML="<H1>"+DATE+"ds"
+        document.body.innerHTML="<H1>"+DATE+"</h1>"
